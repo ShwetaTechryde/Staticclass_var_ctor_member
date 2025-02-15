@@ -6,9 +6,6 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "STATIC", "STATIC\STATIC.csproj", "{39A980E1-89C6-40C6-8FE9-E0B689C166E0}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F1659DA4-FD22-424C-B161-F31FC24AEB9E}"
-	ProjectSection(SolutionItems) = preProject
-		staticcont.cs = staticcont.cs
-	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

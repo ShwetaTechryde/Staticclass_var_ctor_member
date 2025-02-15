@@ -7,10 +7,10 @@ static class Utilites
     }
 
 }
-class Program
-{
-    static void Main()
-    {
-        Utilites.Print("Hello, World!");
-    }
-}
+//class Program
+//{
+//    static void Main()
+//    {
+//        Utilites.Print("Hello, World!");
+//    }
+//}
