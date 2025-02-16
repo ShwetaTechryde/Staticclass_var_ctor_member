@@ -19,9 +19,9 @@ class Logger
 
 class Program
 {
-    static void Main()
-    {
-        Logger.ShowLogPath(); // Static Constructor यहाँ execute होगा
-        Logger.ShowLogPath(); // अब दुबारा execute नहीं होगा
-    }
+    //static void Main()
+    //{
+    //    Logger.ShowLogPath(); // Static Constructor यहाँ execute होगा
+    //    Logger.ShowLogPath(); // अब दुबारा execute नहीं होगा
+    //}
 }
